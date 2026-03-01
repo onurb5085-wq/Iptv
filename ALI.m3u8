@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTGRP:TURKIYE
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,TRT1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=87f8meod0mku&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,TRT1 YEDEK
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ATV HD 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1,KANALD 
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=87f93ah3dnhe&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1,KANALD YEDEK
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1,KANAL7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=87f9h2046vqm&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1,KANAL7 YEDEK
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1,A2 HD 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1,NOW TV 
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1,STAR TV 
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=877rhzke9cxg&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1,STAR TV YEDEK
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=VzBTYXRTSWhSeGc5YWxBakRhZnlkSCs2bDN0VktaSFdhNWZ5clVQVFlqbz0=&sid=87f9vxxh4jk3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3 
+#EXTINF:-1,TV8 HD
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
+#EXTINF:-1,SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87fa6qy0jt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1,SHOW TV HD YEDEK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1,TEVE2 HD 
+https://yayin2.canlitv.fun/live/teve2.stream/chunklist_w975934345.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTINF:-1,ARB AZ
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1379552443.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,XEZER TV
+https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w318244263.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTINF:-1,ATV AZ
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1,CNN TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=ntPL20hs187079FblN7aIQ&e=1772375686
+#EXTINF:-1,HABER TURK
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=87ikuq32ftmt&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1,NTV
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p5000000kbps/index.m3u8?st=dYImidZC_jTmUT7M_RBniQ&e=1772451713
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,CBC SPORT
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1,BAKU TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,SPACE TV
+https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w538060848.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTINF:-1,ITV 
+https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
+#EXTINF:-1,AZ TV 
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzIxMTAwMjAsImp0aSI6IjE5NDE4YmFjNDdiNzgyMjcifQ%3D%3D.OZ231r05a%2F0Ncadq+p268rwI48hb+yg5+x7mGqq8bBM%3D
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,ARB 24
+https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w237540495.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTGRP:AZERBAYCAN
+#EXTINF:-1,REAL TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=77cd755cb62a20916e6ff16612e5985db5ec20c5-3207a0d3bf51b308d88d33072a3a15d9-1772117874000000-1772107074000
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
+https://river-3-370.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/qIUNa8ULciM6vsmaR1w1ug/1772712852/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1,НТВ HD
+https://river-4-432.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/WI961YbOOymLUG7YeH4Q2Q/1772713301/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8 
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ТНТ 
+https://edge02d.mediavitrina.ru/hls-livef8/tnt/tracks-v4a1/mono.m3u8?token=v2.tCzth3vQTt_WEd4T1yW2oQSEs_wF9X-ylUYFNcIHDqg.qM_4GU9VNt52bzdNYTT40By8V471Y0Rp6_Ir3_44yUg.1772715419.b82cc440b3084aa19c0eb1b7d39f6850
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ТВ3
+https://edge01r.mediavitrina.ru/hls-livef8/tv3/tracks-v4a1/mono.m3u8?token=v2.6rubaP1xtL6V825SMwP-PJ84cQhQNSiSsB6axT6PB3Y.iZrkfeTBBb7y5LffK8lPMYLtay237eZE4n7BH1LVPQU.1772715473.a310c4d22ce873540dcd12a497d7af63
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ПЯТНИЦА 
+https://edge02r.mediavitrina.ru/hls-livef8/friday/tracks-v4a1/mono.m3u8?token=v2.m3t0av8kPp8yTH8MZElQAaXxDZ_Cr6udGTEHqUpvl6o.mLKt2j7VD5mNuLoUjW_eZevgVJ0gPPjofJr8GBFIxs4.1772715634.a82884663515616ad873c0c614c47f2b
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,СУББОТА
+https://river-3-3102.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/6u7WmYR9yYfaw0x4ye2MMQ/1772715744/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ЗВЕЗДА
+https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.MnbXl4x4UJKao9IDS0BK62bCLZ1ukm7mtiz-9-u-WnE.KaToR44DkkEZlGSsTFY8E561u5MAyzx4X1qBLXywnuw.1772716393.8b589a59d51dd868e90088a1d11f3006
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,РОССИЯ 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,
+
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,
+
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,
+
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,
