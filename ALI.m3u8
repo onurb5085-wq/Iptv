@@ -49,7 +49,7 @@ https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w318244263.m3u8?hash=9e
 #EXTINF:-1,ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,CNN TURK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=RY5JHQJP_KWQGdbhPfJnAA&e=1772461816
 #EXTINF:-1,HABER TURK
 https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=87ikuq32ftmt&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1,NTV
@@ -68,7 +68,7 @@ https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzIxMTAwMjAsImp0aSI6IjE5NDE4YmFjNDdiNzgyMjcifQ%3D%3D.OZ231r05a%2F0Ncadq+p268rwI48hb+yg5+x7mGqq8bBM%3D
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,ARB 24
-https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w237540495.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+https://cdn900.canlitv.me/arb24.m3u8?tkn=38DQ4UiPi8b5WrNxHMnhmQ&tms=1772465472&hst=www.canlitv.me&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=arb-24-tv-hd
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,REAL TV
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=77cd755cb62a20916e6ff16612e5985db5ec20c5-3207a0d3bf51b308d88d33072a3a15d9-1772117874000000-1772107074000
@@ -355,4 +355,5 @@ https://s.tivix.co/M4lBJJ8XiDRw5wMHz-CHjw/109/1772468606/index.m3u8
 https://s.tivix.co/FEQrDwSgNoJVTGV0WeRTpQ/113/1772468634/index.m3u8
 #EXTGRP:ПОЗНОВАТЕЛЬНЫЕ
 #EXTINF:-1,
+
 
