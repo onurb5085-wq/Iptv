@@ -7,6 +7,8 @@ https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=87f8meod0mku&app=ed3904e8-
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ATV HD 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1,ATV YEDEK
+https://cdn504.canlitv.icu/atv720.m3u8?tkn=vhn5tykoSrlZllUnZieshQ&tms=1772459183&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=atvcanli-izle
 #EXTINF:-1,KANALD 
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=87f93ah3dnhe&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1,KANALD YEDEK
@@ -17,24 +19,28 @@ https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=87f9h2046vqm&app=f9958
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,A2 HD 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1,A2 YEDEK
+https://cdn505.canlitv.icu/a2tv.m3u8?tkn=SKvys924fqiPaJU3tBvAnQ&tms=1772459443&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=a2canliyayin
 #EXTINF:-1,NOW TV 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1,NOW TV YEDEK
+https://cdn503.canlitv.icu/foxtv.m3u8?tkn=_yDAWEUt1D_JkUmz18inuA&tms=1772459537&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=fox-tv-canli-hd-yayin
 #EXTINF:-1,STAR TV 
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=877rhzke9cxg&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1,STAR TV YEDEK
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=VzBTYXRTSWhSeGc5YWxBakRhZnlkSCs2bDN0VktaSFdhNWZ5clVQVFlqbz0=&sid=87f9vxxh4jk3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3 
 #EXTINF:-1,TV8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
-#EXTINF:-1,TV 8 
-https://yayin2.canlitv.fun/live/tv-8.stream/chunklist_w1049105287.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
 #EXTINF:-1,tv 8
 https://cdn505.canlitv.icu/tv8.m3u8?tkn=ibmiKH6vHdS9zub-GqqVMQ&tms=1772458912&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8-canlihd-izle
 #EXTINF:-1,SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87fa6qy0jt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1,SHOW TV HD YEDEK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1,TEVE2 HD 
-https://yayin2.canlitv.fun/live/teve2.stream/chunklist_w975934345.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTINF:-1,TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
+#EXTINF:-1,TEVE 2 YEDEK
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2ff/teve2_1.m3u8
 #EXTINF:-1,TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,ARB AZ
@@ -45,7 +51,7 @@ https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w318244263.m3u8?hash=9e
 #EXTINF:-1,ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,CNN TURK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=ntPL20hs187079FblN7aIQ&e=1772375686
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1,HABER TURK
 https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=87ikuq32ftmt&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1,NTV
@@ -103,5 +109,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
 
 #EXTINF:-1,
+
 
 
