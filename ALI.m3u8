@@ -3,8 +3,14 @@
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,TRT1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=87f8meod0mku&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT1 YEDEK
+#EXTINF:-1,TRT1 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT1
+https://cdn506.tvkulesi.com/trt1.m3u8?tkn=AdABAOKmirdDJHLZ6HWdqQ&tms=1772543882&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
+#EXTINF:-1,TRT1
+https://cdn506.tvkulesi.com/trt1.m3u8?tkn=B13EPB1FyLADwLc9w_k89w&tms=1772543894&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
+#EXTINF:-1,TRT1
+https://cdn503.tvkulesi.com/trt1.m3u8?tkn=rG3nmLA2IfPAEl0d0PTxRw&tms=1772543916&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
 #EXTINF:-1,ATV HD 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1,ATV YEDEK
@@ -32,7 +38,11 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=VzBTYXRTSWhSeGc5YWxBakR
 #EXTINF:-1,TV8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 #EXTINF:-1,tv 8
-https://cdn505.canlitv.icu/tv8.m3u8?tkn=ibmiKH6vHdS9zub-GqqVMQ&tms=1772458912&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8-canlihd-izle
+https://cdn507.tvkulesi.com/tv8.m3u8?tkn=gBY5Hz14ZOgdtb6UMlamxA&tms=1772543990&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
+#EXTINF:-1,TV8
+https://cdn504.tvkulesi.com/tv8.m3u8?tkn=nJtnd-a-PYJ2VQ-O_BFFwQ&tms=1772544030&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
+#EXTINF:-1,TV8
+https://cdn503.tvkulesi.com/tv8360.m3u8?tkn=8wMSKcH_Utmw_EHEbdhUyA&tms=1772544049&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
 #EXTINF:-1,SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87fa6qy0jt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1,SHOW TV HD YEDEK
@@ -96,3 +106,8 @@ https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v
 #EXTINF:-1,РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,СТС
+https://s.domatv.net/Pecx7S7WuVeSBsgHn1DueA/591/1772547723/index.m3u8
+#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
+#EXTINF:-1,ЧЕ
+https://s.domatv.net/VdsInKRtp2KThpOHDzkJ8A/526/1772547751/index.m3u8
