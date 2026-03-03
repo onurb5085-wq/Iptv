@@ -38,11 +38,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=VzBTYXRTSWhSeGc5YWxBakR
 #EXTINF:-1,TV8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 #EXTINF:-1,tv 8
-https://cdn507.tvkulesi.com/tv8.m3u8?tkn=gBY5Hz14ZOgdtb6UMlamxA&tms=1772543990&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
-#EXTINF:-1,TV8
-https://cdn504.tvkulesi.com/tv8.m3u8?tkn=nJtnd-a-PYJ2VQ-O_BFFwQ&tms=1772544030&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
-#EXTINF:-1,TV8
-https://cdn503.tvkulesi.com/tv8360.m3u8?tkn=8wMSKcH_Utmw_EHEbdhUyA&tms=1772544049&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=tv8
+https://yayin2.canlitv.fun/live/tv-8.stream/chunklist_w1063818475.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
 #EXTINF:-1,SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87fa6qy0jt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1,SHOW TV HD YEDEK
@@ -111,3 +107,4 @@ https://s.domatv.net/Pecx7S7WuVeSBsgHn1DueA/591/1772547723/index.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
 #EXTINF:-1,ЧЕ
 https://s.domatv.net/VdsInKRtp2KThpOHDzkJ8A/526/1772547751/index.m3u8
+
