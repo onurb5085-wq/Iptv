@@ -750,7 +750,7 @@ https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzIxMTAwMjAsImp0aSI6IjE5NDE4YmFjNDdiNzgyMjcifQ%3D%3D.OZ231r05a%2F0Ncadq+p268rwI48hb+yg5+x7mGqq8bBM%3D
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,ARB 24
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzI2MjI2ODQsImp0aSI6ImQzMTU4ZmQzMGZkYWM2NzQifQ%3D%3D.WDIHDw9ubPLk7JW2Y9dRfaZ34BsNO3AD18sJyooQLNQ%3D
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzI2MjMxMDEsImp0aSI6IjZjNjcxNDM1ZDYwZTIzZjQifQ%3D%3D.797Ej93gMry+upESl60jFRu1TMD%2FyIu8P1e2vUtvMSc%3D
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,REAL TV
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=77cd755cb62a20916e6ff16612e5985db5ec20c5-3207a0d3bf51b308d88d33072a3a15d9-1772117874000000-1772107074000
@@ -783,5 +783,6 @@ https://s.domatv.net/Pecx7S7WuVeSBsgHn1DueA/591/1772547723/index.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
 #EXTINF:-1,ЧЕ
 https://s.domatv.net/VdsInKRtp2KThpOHDzkJ8A/526/1772547751/index.m3u8
+
 
 
