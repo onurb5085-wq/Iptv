@@ -779,10 +779,11 @@ https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
 #EXTINF:-1,СТС
-https://s.domatv.net/Pecx7S7WuVeSBsgHn1DueA/591/1772547723/index.m3u8
+https://s.pokaz.me/_I-cH4IWGp590PUFw68reg/591/1772637876/index.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
-#EXTINF:-1,ЧЕ
-https://s.domatv.net/VdsInKRtp2KThpOHDzkJ8A/526/1772547751/index.m3u8
+#EXTINF:-1,домашний
+https://s.pokaz.me/444amR2bEECPwxLtGrUCaQ/561/1772637820/index.m3u8
+
 
 
 
