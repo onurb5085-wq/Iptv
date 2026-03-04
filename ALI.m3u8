@@ -5,16 +5,8 @@
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=87f8meod0mku&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,TRT1 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT1
-https://cdn506.tvkulesi.com/trt1.m3u8?tkn=AdABAOKmirdDJHLZ6HWdqQ&tms=1772543882&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
-#EXTINF:-1,TRT1
-https://cdn506.tvkulesi.com/trt1.m3u8?tkn=B13EPB1FyLADwLc9w_k89w&tms=1772543894&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
-#EXTINF:-1,TRT1
-https://cdn503.tvkulesi.com/trt1.m3u8?tkn=rG3nmLA2IfPAEl0d0PTxRw&tms=1772543916&hst=amp.tvkulesi.com&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=trt-1
 #EXTINF:-1,ATV HD 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTINF:-1,ATV YEDEK
-https://cdn504.canlitv.icu/atv720.m3u8?tkn=vhn5tykoSrlZllUnZieshQ&tms=1772459183&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=atvcanli-izle
 #EXTINF:-1,KANALD 
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=87f93ah3dnhe&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1,KANALD YEDEK
@@ -25,12 +17,8 @@ https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=87f9h2046vqm&app=f9958
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,A2 HD 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
-#EXTINF:-1,A2 YEDEK
-https://cdn505.canlitv.icu/a2tv.m3u8?tkn=SKvys924fqiPaJU3tBvAnQ&tms=1772459443&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=a2canliyayin
 #EXTINF:-1,NOW TV 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
-#EXTINF:-1,NOW TV YEDEK
-https://cdn503.canlitv.icu/foxtv.m3u8?tkn=_yDAWEUt1D_JkUmz18inuA&tms=1772459537&hst=tr.canlitv.icu&ip=37.114.179.105&utkn=25e4a3186076eb44495d29c8082441ec&ch=fox-tv-canli-hd-yayin
 #EXTINF:-1,STAR TV 
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=877rhzke9cxg&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1,STAR TV YEDEK
@@ -778,11 +766,8 @@ https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v
 #EXTINF:-1,РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTGRP:РОССИЙСКИЕ КАНАЛЫ
-#EXTINF:-1,СТС
-https://s.pokaz.me/_I-cH4IWGp590PUFw68reg/591/1772637876/index.m3u8
-#EXTGRP:РОССИЙСКИЕ КАНАЛЫ
-#EXTINF:-1,домашний
-https://s.pokaz.me/444amR2bEECPwxLtGrUCaQ/561/1772637820/index.m3u8
+
+
 
 
 
