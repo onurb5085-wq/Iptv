@@ -35,6 +35,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
 #EXTINF:-1,TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,HABER TURK
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=87ikuq32ftmt&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
@@ -720,20 +722,22 @@ https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1379552443.m3u8?hash=9e881
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,XEZER TV
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w318244263.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTGRP:AZERBAYCAN
 #EXTINF:-1,ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1,HABER TURK
-https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=87ikuq32ftmt&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,CBC SPORT
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTGRP:AZERBAYCAN
 #EXTINF:-1,BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTGRP:AZERBAYCAN
 #EXTINF:-1,SPACE TV
 https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w538060848.m3u8?hash=9e88178ec8cad07259a46da87e05c9c4
+#EXTGRP:AZERBAYCAN
 #EXTINF:-1,ITV 
 https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
+#EXTGRP:AZERBAYCAN
 #EXTINF:-1,AZ TV 
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xNzkuMTA1IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NzIxMTAwMjAsImp0aSI6IjE5NDE4YmFjNDdiNzgyMjcifQ%3D%3D.OZ231r05a%2F0Ncadq+p268rwI48hb+yg5+x7mGqq8bBM%3D
 #EXTGRP:AZERBAYCAN
